@@ -45,7 +45,9 @@ Here are some of the bar charts and histograms, I got
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![Histogram 1](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Histogram%201.png)|![Histogram 2](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Histogram%202.png)|![Bar Chart 1](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Bar%20Chart%201.png)|
     
+## Error Analysis
 
+In this case, I used Kaggle Prediction to obtain **mean squared error of 0.00032.** The error can be further improved by improving the number of iterations greater than 1000000.
 
 
 
