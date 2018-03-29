@@ -43,7 +43,7 @@ Here are some of the bar charts and histograms, I got
 
 |                           |                           |                           |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![](/Plots/Histogram 1.png)|![](/Plots/Histogram 2.png)|![](/Plots/Bar Chart 1.png)|
+|![Histogram 1](/Plots/Histogram 1.png)|![Histogram 2](/Plots/Histogram 2.png)|![Bar Chart 1](/Plots/Bar Chart 1.png)|
     
 
 
