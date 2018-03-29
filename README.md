@@ -19,6 +19,9 @@ The best way to look that you are heading in the correct direction is to perform
 Here is the visualization for the convergence to steady state distribution:
 ![Convergence to Stationary Distribution](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Plot%20of%20B_mean%20vs%20Iterations%20for%201000000%20iterations.png)
 
+There is other way to visualize as well as shown in the following figure.
+![Convergence to Stationary Distribution other way round](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Plot%20of%20alpha%20as%20function%20of%20iterations.png)
+
 
 
 
