@@ -43,7 +43,7 @@ Here are some of the bar charts and histograms, I got
 
 |                           |                           |                           |
 |:-------------------------:|:-------------------------:|:-------------------------:|
-|![Histogram 1](/Plots/Histogram 1.png)|![Histogram 2](/Plots/Histogram 2.png)|![Bar Chart 1](/Plots/Bar Chart 1.png)|
+|![Histogram 1](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Histogram%201.png)|![Histogram 2](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Histogram%202.png)|![Bar Chart 1](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Bar%20Chart%201.png)|
     
 
 
