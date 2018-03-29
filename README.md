@@ -41,6 +41,7 @@ Here J can be considered jar states and B can be considered as a ball states. Al
 
 Here are some of the bar charts and histograms, I got
 
+|                           |                           |                           |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |![](/Plots/Histogram 1.png)|![](/Plots/Histogram 2.png)|![](/Plots/Bar Chart 1.png)|
     
