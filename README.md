@@ -29,6 +29,15 @@ def MCMC(J, B, alpha, iterations):
     mean_alpha = 0
     mean_J = 0
     (new_alpha, new_J) = proposed_function(alpha, J)
+    acceptance_ratio = Probability(new_alpha, new_J,B)/Probability(alpha,J,B)
+    if uniform_random_number_between_0_and_1 <= acceptance_ratio:
+      alpha = new_alpha
+      J = new_J
+    mean_alpha += alpha
+    mean_J += J
+return (mean_J/iterations,mean_alpha/iterations)
+```
+
     
 
 
