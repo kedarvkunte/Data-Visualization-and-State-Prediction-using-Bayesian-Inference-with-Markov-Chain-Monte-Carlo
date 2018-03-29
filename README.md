@@ -16,7 +16,7 @@ This task is achieved by calculating prior-posterior probability.
 ## Data Visualization
 The best way to look that you are heading in the correct direction is to perform Data Visualization. Matplotlib is one of the greatest modules, which is helpful in visualizing data with Bar Charts, Histogram etc.
 
-Here is the visualization for the convergence to steady state distribution:
+Here is the visualization for the convergence to steady state distribution
 :[Convergence to Stationary Distribution](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Plot%20of%20B_mean%20vs%20Iterations%20for%201000000%20iterations.png)
 
 
