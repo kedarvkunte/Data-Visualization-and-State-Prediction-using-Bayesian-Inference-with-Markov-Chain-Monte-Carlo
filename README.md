@@ -29,15 +29,20 @@ def MCMC(J, B, alpha, iterations):
     mean_alpha = 0
     mean_J = 0
     (new_alpha, new_J) = proposed_function(alpha, J)
-    acceptance_ratio = Probability(new_alpha, new_J,B)/Probability(alpha,J,B)
-    if uniform_random_number_between_0_and_1 <= acceptance_ratio:
+    ratio_of_accept = Probability(new_alpha, new_J,B)/Probability(alpha,J,B)
+    if uniform_random_number_between_0_and_1 <= ratio_of_accept:
       alpha = new_alpha
       J = new_J
     mean_alpha += alpha
     mean_J += J
 return (mean_J/iterations,mean_alpha/iterations)
 ```
+Here J can be considered jar states and B can be considered as a ball states. Alpha can be considered as the probability to select the same jar at the subsequent level and draw another ball from it.
 
+Here are some of the bar charts and histograms, I got
+
+|:-------------------------:|:-------------------------:|:-------------------------:|
+|![](/Plots/Histogram 1.png)|![](/Plots/Histogram 2.png)|![](/Plots/Bar Chart 1.png)|
     
 
 
