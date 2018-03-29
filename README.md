@@ -22,6 +22,16 @@ Here is the visualization for the convergence to steady state distribution:
 There is other way to visualize as well as shown in the following figure.
 ![Convergence to Stationary Distribution other way round](https://github.com/kedarvkunte/Data-Visualization-and-State-Prediction-using-Bayesian-Inference-with-Markov-Chain-Monte-Carlo/blob/master/Plots/Plot%20of%20alpha%20as%20function%20of%20iterations.png)
 
+The algorithm for Metropolis Hastings is as follows:
+```
+def MCMC(J, B, alpha, iterations):
+  for i = 1 to iterations:
+    mean_alpha = 0
+    mean_J = 0
+    (new_alpha, new_J) = proposed_function(alpha, J)
+    
+
+
 
 
 
